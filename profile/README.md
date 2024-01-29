@@ -20,14 +20,14 @@ Welcome to the **ETSINF EXERCISES** organization! This GitHub organization hosts
 
 - **[3.MFI](https://github.com/nacchofer31-etsinf-exercises/3.MFI):** Métodos Formales Industriales del año 2018.
 
-- **[3.DSM](https://github.com/nacchofer31-etsinf-exercises/3.DSM):** Prácticas Desarrollo de Software Dirigido por modelos del año 2018.
+- **[3.DSM](https://github.com/nacchofer31-etsinf-exercises/3.DSM):** Desarrollo de Software Dirigido por modelos del año 2018.
 
-- **[4.AER](https://github.com/nacchofer31-etsinf-exercises/4.AER):** Repositorio con los Baselines del curso 2019 de la asignatura de AER.
+- **[4.AER](https://github.com/nacchofer31-etsinf-exercises/4.AER):** Baselines del curso 2019 de la asignatura de AER.
 
 Feel free to explore, fork, and contribute to these **repositories** as you embark on your **Computer Science** journey! 🚀
 
 ## 🤝 Connect with Me
 
-If you find these exercises helpful, consider supporting and following me on **GitHub**. You can find my profile [**HERE**](https://github.com/Nacchofer31). Your support means a lot! 🙌
+If you find these exercises helpful, consider supporting and **following me on [**GitHub**](https://github.com/Nacchofer31)**. Your support means a lot! 🙌
 
 Happy coding! 🎉
